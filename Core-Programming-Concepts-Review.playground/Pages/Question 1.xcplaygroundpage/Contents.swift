@@ -25,13 +25,13 @@ import Foundation
 // Transformation parameters
 let updown = 5.0
 let lr = 2.0
-let stretchvalue = 0.5
+let stretchValue = 0.5
 
 // Set the independent variable value
-let input = 100.0
+var input = 100.0
 
 // Calculate the dependent variable value
-let y = stretchvalue * pow(input - lr, 2) + updown
+var y = stretchValue * pow(input - lr, 2) + updown
 
 /*:
  In other words:
