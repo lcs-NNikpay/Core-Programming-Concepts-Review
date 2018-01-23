@@ -18,15 +18,16 @@
  
  */
 // Answer question 2 below
-var numberOfCommits : Int
+ var numberOfCommits : Int
+print("numberOfCommits would change during the time " )
 var numberOfForks : Int
+print("numberOfForks would change during the time")
 let yearCreated : Int
+print("yearCreated is aconstant; it only happen oce and would never change")
 let monthCreated : Int
+print("monthCreated is aconstant; it only happen oce and would never change")
 let dayCreated : Int
-
-if statement {
-    
-}
+print("dayCreated is aconstant; it only happen oce and would never change")
 
 /*:
  ## Now share your understanding

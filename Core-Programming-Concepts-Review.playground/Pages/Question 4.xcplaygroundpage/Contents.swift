@@ -27,7 +27,7 @@ let soup : Double
 let mainCourse : Double
 let pizzaOven : Double
 let date : String
-let 
+let timeFrame : String
 /*:
  ## Now share your understanding
  
