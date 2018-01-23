@@ -18,6 +18,15 @@
  
  */
 // Answer question 2 below
+var numberOfCommits : Int
+var numberOfForks : Int
+let yearCreated : Int
+let monthCreated : Int
+let dayCreated : Int
+
+if statement {
+    
+}
 
 /*:
  ## Now share your understanding
